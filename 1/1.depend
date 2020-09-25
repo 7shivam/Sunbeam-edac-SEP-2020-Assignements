@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601022083 source:c:\users\shivam\desktop\sunbeam hw\sunbeam-edac-sep-2020-assignements\1\main.c
+	<string.h>
+	<stdio.h>
+
