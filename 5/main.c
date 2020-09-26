@@ -78,9 +78,10 @@ int main(){
     //printf("%d/%d/%d\n",e.birth.day,e.birth.month,e.birth.year);
     //printf("%d/%d/%d\n",e.joining.day,e.joining.month,e.joining.year);
 
-    printf("Person age while joining compant %d Years\n",(e.joining.year)-(e.birth.year));
-   //error printf("Experience in Month %d",((2020-e.joining.year)*12)+e.joining.month-9);
 
+    printf("Person age while joining compant %d Years\n",(e.joining.year)-(e.birth.year));
+    printf("Experience in Month %d",((2020-e.joining.year)*12)+(9-e.joining.month));
+    //printf("Probation Period of 90 days is on %d",)
 
 
 
