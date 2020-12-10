@@ -1,4 +1,4 @@
-# Sunbeam-edac-SEP-2020
+# Sunbeam-edac-SEP-2020-Assignment
 
 
 <b>Sunbeam Institute of Information Technology<b>
